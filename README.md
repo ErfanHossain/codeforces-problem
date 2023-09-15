@@ -1,2 +1,2 @@
-# codeforces-problem 800
+# codeforces-problem
 codeforces problem solved
